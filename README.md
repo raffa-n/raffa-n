@@ -228,17 +228,14 @@
 
 <h2>📬 Conecte-se Comigo</h2>
 <div align="center">
-  <a href="https://www.linkedin.com/in/zeneiltongpdev/">
+  <a href=">https://www.linkedin.com/in/rafael-coronel-jacinto-neto-68260133a/"
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="https://wa.me/5518997476190?text=Olá!%20Deixe%20uma%20mensagem%20para%20o%20devZeny!">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
   </a>
-  <a href="mailto:zeneiltongranja@gmail.com">
+  <a href="mailto:rafael.coroneljn@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://x.com/zeneiltongpdev">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
   </a>
   <a href="https://www.instagram.com/raffaa.n_/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
