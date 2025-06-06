@@ -18,7 +18,7 @@
 
 🚀 <b>Projetos em Destaque:</b>  
 🔭 Atualmente trabalhando em: **[a](x)**
-🌱 Aprendendo: 
+🌱 Aprendendo:  **[Desenvolvimento de IA - Coursera](https://www.coursera.org/learn/google-ai-essentials)** 
 🔗 Veja todos os meus projetos no meu **[Portfólio completo](https://github.com/raffa-n)!**
 
 🔹 **[SMS CARA](#)** - Uma solução inovadora para Instituições de Ensino (Repositório em Breve).  
