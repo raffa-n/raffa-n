@@ -228,7 +228,7 @@
 
 <h2>📬 Conecte-se Comigo</h2>
 <div align="center">
-  <a href=">https://www.linkedin.com/in/rafael-coronel-jacinto-neto/"
+  <a href=">(https://www.linkedin.com/in/rafael-coronel-68260133a/)">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="https://wa.me/5518997476190?text=Olá!%20Deixe%20uma%20mensagem%20para%20o%20devZeny!">
