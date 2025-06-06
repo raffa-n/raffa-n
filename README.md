@@ -1,5 +1,5 @@
 <div align="center">  
-  <a href="https://github.com/zeneiltongpdev">
+  <a href="https://github.com/raffa-n">
     <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9c28d4&height=250&section=header&text=Oi!%20Eu%20sou%20o%20Zeneilton!&reversal=false&textBg=false&fontColor=FFFFFF&fontSize=40&fontAlignY=30&animation=fadeIn&desc=E%20você%20está%20no%20meu%20Github%20😃,%20seja%20muito%20bem-vindo(a)&descAlignY=50"/>
   </a>
   <div align=right>
@@ -8,7 +8,7 @@
   </div>  
   <div align=left>
   <h2>💡 Sobre Mim</h2>
-  <p style="font-weight:bold">👨‍💻 Sou Desenvolvedor Backend com mais de 5 anos de experiência em desenvolvimento de software e mais de 10 anos na área de TI. Tenho paixão por construir soluções eficientes, escaláveis e confiáveis — com foco atual em engenharia backend e práticas de confiabilidade de banco de dados (DBRE).</p>
+  <p style="font-weight:bold">👨‍💻 Sou Desenvolvedor Backend a 1 ano buscando aprimorar meu conhecimento em desenvolvimento de software. Tenho paixão por construir soluções eficientes, escaláveis e confiáveis — com foco atual em engenharia backend e práticas de confiabilidade de banco de dados (DBRE).</p>
   <h2>🎯 Atuação:</h2>
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ubuntu&pause=1000&color=9C28D4&width=700&lines=Desenvolvimento+Backend+Java+e+Spring+com+foco+em+APIs+REST+escal%C3%A1veis;Otimiza%C3%A7%C3%A3o+e+automa%C3%A7%C3%A3o+de+infraestrutura+de+dados;Monitoramento%2C+logging+e+confiabilidade+de+Banco+de+Dados;Apoio+a+equipes+com+boas+pr%C3%A1ticas+de+modelagem+e+integra%C3%A7%C3%A3o" alt="Typing SVG" /></a>
   </div>
