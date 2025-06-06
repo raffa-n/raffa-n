@@ -45,13 +45,6 @@
   [![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/646943cf410780a6d9ba4fb2?variant=dark&roadmaps=frontend%2Cfull-stack%2Cbackend%2Ctypescript)](https://roadmap.sh)
   </div>
 
-<h2>📢 Comunidade</h2>
-<div align="center">
-  <p>Participe da nossa comunidade no Discord, onde você pode interagir com outros desenvolvedores, compartilhar conhecimento e tirar dúvidas!</p>
-
-  [![Discord Server Card](https://cardzera.onrender.com/api/1112920281367973900?t={timestamp})](https://discord.gg/servidordosprogramadores)
-</div>
-
 <h2>🛠️ Tecnologias & Ferramentas</h2>
 <div align="center">
   <table style="width:100%">
