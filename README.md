@@ -17,10 +17,9 @@
 <img align="right" height="250" border="" src="https://avatars.githubusercontent.com/u/183439897?s=400&u=9c16b18bad3e0d5cc9a7e94982e7a3b4e22e807e&v=4"/>
 
 🚀 <b>Projetos em Destaque:</b>  
-🔭 Atualmente trabalhando em: **[EduNexus](#)**  
-🌱 Aprendendo: **[Desenvolvimento de IA - Coursera](https://www.coursera.org/learn/google-ai-essentials)**  
-📫 Entre em contato: **[LinkedIn](https://www.linkedin.com/in/zeneiltongpdev/)**  
-🔗 Veja todos os meus projetos no meu **[Portfólio completo](https://zeneiltongp.dev)!**
+🔭 Atualmente trabalhando em: 
+🌱 Aprendendo: 
+🔗 Veja todos os meus projetos no meu **[Portfólio completo](https://github.com/raffa-n)!**
 
 🔹 **[SMS CARA](#)** - Uma solução inovadora para Instituições de Ensino (Repositório em Breve).  
 🔹 **[HomeBroker](#)** - Breve descrição do projeto e sua funcionalidade (Repositório em Breve).  
