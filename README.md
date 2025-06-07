@@ -196,6 +196,6 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
   <a href="https://github.com/raffa-n">
-    <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9c28d4&height=120&section=footer"/>
+    <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=bb00ff&height=120&section=footer"/>
   </a>
 </div>
