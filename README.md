@@ -39,14 +39,6 @@
 
   <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/6843818b846bd2eeed1c6c39?variant=dark&roadmaps=backend%2Cjava" alt="roadmap.sh"/></a>
   </div>
-
-<h2>📢 Comunidade</h2>
-<div align="center">
-  <p>Participe da nossa comunidade no Discord, onde você pode interagir com outros desenvolvedores, compartilhar conhecimento e tirar dúvidas!</p>
-
-  [![Discord Server Card](https://cardzera.onrender.com/api/1112920281367973900?t={timestamp})](https://discord.gg/servidordosprogramadores)
-</div>
-
 <h2>🛠️ Tecnologias & Ferramentas</h2>
 <div align="center">
   <table style="width:100%">
