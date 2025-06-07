@@ -6,7 +6,7 @@
   <h2>💡 Sobre Mim</h2>
   <p style="font-weight:bold">👨‍💻 Sou Desenvolvedor Backend buscando absorver experiência em desenvolvimento de software. Tenho paixão por resolver problemas envolvendo Java, desenvolver soluções eficientes, escaláveis e confiáveis — com foco atual em engenharia backend e práticas de confiabilidade de banco de dados (DBRE).</p>
   <h2>🎯 Atuação:</h2>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ubuntu&pause=1000&color=9C28D4&width=700&lines=Desenvolvimento+Backend+Java+e+Spring+com+foco+em+APIs+REST+escal%C3%A1veis;Otimiza%C3%A7%C3%A3o+e+automa%C3%A7%C3%A3o+de+infraestrutura+de+dados;Monitoramento%2C+logging+e+confiabilidade+de+Banco+de+Dados;Apoio+a+equipes+com+boas+pr%C3%A1ticas+de+modelagem+e+integra%C3%A7%C3%A3o" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ubuntu&pause=1000&color=0010ff&width=700&lines=Desenvolvimento+Backend+Java+e+Spring+com+foco+em+APIs+REST+escal%C3%A1veis;Otimiza%C3%A7%C3%A3o+e+automa%C3%A7%C3%A3o+de+infraestrutura+de+dados;Monitoramento%2C+logging+e+confiabilidade+de+Banco+de+Dados;Apoio+a+equipes+com+boas+pr%C3%A1ticas+de+modelagem+e+integra%C3%A7%C3%A3o" alt="Typing SVG" /></a>
   </div>
 </div>
 <br clear="both">
