@@ -174,7 +174,7 @@
   </table>
 
   <a href="https://github.com/raffa-n">
-    <img src="https://komarev.com/ghpvc/?username=raffa-n&label=Profile%20views&color=9c28d4&style=flat" alt="raffa-n"/>
+    <img src="https://komarev.com/ghpvc/?username=raffa-n&label=Profile%20views&color=ff0000&style=flat" alt="raffa-n"/>
   </a>
   <a href="https://wakatime.com/@5b16e0ec-6419-487c-9792-82c9468dd942">
     <img src="https://wakatime.com/badge/user/5b16e0ec-6419-487c-9792-82c9468dd942.svg" alt="Total time coded since Mar 18 2023" />
